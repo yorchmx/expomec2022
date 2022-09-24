@@ -44,7 +44,7 @@
         </div>
       </div>
       <div class="right-side">
-        <div class="topic-text">Registro Visitantes Expomec 2022</div>
+        <div class="topic-text">Registro Visitantes Expomec</div>
         <p>Realiza tu registro para Expomec 2022 y haz tu pago en línea por $350.00 ó el día del evento $400.00</p>
 
        
